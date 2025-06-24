@@ -1,0 +1,173 @@
+[
+  {
+    "uuid": "c3f5a7d9-4b0e-4f36-90a2-cc4f2f7c8d92",
+    "firstName": "Emery",
+    "lastName": "Hickling",
+    "phone": "312-555-6721",
+    "emails": [
+      "ehickling0@outlook.com"
+    ]
+  },
+  {
+    "uuid": "7ad93e1b-564e-4b32-a70d-2df34745fdac",
+    "firstName": "Kendra",
+    "lastName": "Swinton",
+    "phone": "453-210-9823",
+    "emails": [
+      "kswinton1@icloud.com",
+      "kswinton1@bing.com"
+    ]
+  },
+  {
+    "uuid": "12fc9a8d-9c23-4d8f-963e-6205a12a90f1",
+    "firstName": "Finnian",
+    "lastName": "Corbould",
+    "phone": "781-602-5549",
+    "emails": [
+      "fcorbould2@google.com",
+      "fcorbould2@zillow.com",
+      "fcorbould2@msn.com"
+    ]
+  },
+  {
+    "uuid": "98d7f5b4-4935-4261-84e4-1a1a8d13a3e1",
+    "firstName": "Nicolette",
+    "lastName": "Dunsford",
+    "phone": "667-849-3120",
+    "emails": [
+      "ndunsford3@pinterest.com"
+    ]
+  },
+  {
+    "uuid": "b5e91f3a-f3a9-4a35-baf3-5f463f5e7f60",
+    "firstName": "Reagan",
+    "lastName": "Mallinson",
+    "phone": "234-765-0091",
+    "emails": [
+      "rmallinson4@tumblr.com",
+      "rmallinson4@epa.gov"
+    ]
+  },
+  {
+    "uuid": "6c137b45-839d-43e7-b621-0de6d0376a77",
+    "firstName": "Ryan",
+    "lastName": "Ormsby",
+    "phone": "419-208-7854",
+    "emails": [
+      "rormsby5@linkedin.com",
+      "rormsby5@mozilla.org",
+      "rormsby5@ask.com"
+    ]
+  },
+  {
+    "uuid": "4e712e2c-b357-4b06-a354-4a1fa9f3243f",
+    "firstName": "Seraphina",
+    "lastName": "Blundell",
+    "phone": "530-841-2098",
+    "emails": [
+      "sblundell6@photobucket.com",
+      "sblundell6@myspace.com"
+    ]
+  },
+  {
+    "uuid": "9e6c9f57-3d6e-4a14-b7e8-3a5cf4d3f2eb",
+    "firstName": "Callum",
+    "lastName": "Petherbridge",
+    "phone": "289-653-9712",
+    "emails": [
+      "cpetherbridge7@hp.com"
+    ]
+  },
+  {
+    "uuid": "a41b4b8b-2d7f-4e5b-a4eb-8b50a8d3f5e0",
+    "firstName": "Luciana",
+    "lastName": "Ramsden",
+    "phone": "845-220-6183",
+    "emails": [
+      "lramsden8@forbes.com",
+      "lramsden8@overstock.com",
+      "lramsden8@dailymotion.com"
+    ]
+  },
+  {
+    "uuid": "31d4b68e-4856-4d4b-b0bb-5b87077fb8a4",
+    "firstName": "Jericho",
+    "lastName": "Tredgold",
+    "phone": "968-752-1145",
+    "emails": [
+      "jtredgold9@bbc.co.uk",
+      "jtredgold9@wired.com",
+      "jtredgold9@fema.gov"
+    ]
+  },
+  {
+    "uuid": "4bf99d6a-d9eb-4c3c-a839-8c1b1d81a7f2",
+    "firstName": "Verity",
+    "lastName": "Broughton",
+    "phone": "504-884-2332",
+    "emails": [
+      "vbroughton0@yahoo.com"
+    ]
+  },
+  {
+    "uuid": "e9b2d9c3-1b7e-4c95-8a0a-2f37a3c1b8f1",
+    "firstName": "Leander",
+    "lastName": "Mosley",
+    "phone": "612-394-2876",
+    "emails": [
+      "lmosley1@etsy.com",
+      "lmosley1@cisco.com"
+    ]
+  },
+  {
+    "uuid": "f3d8b45c-16ea-4db1-b9e3-5898f4c6d57f",
+    "firstName": "Sienna",
+    "lastName": "Colmore",
+    "phone": "473-293-1108",
+    "emails": [
+      "scolmore2@weebly.com",
+      "scolmore2@foursquare.com"
+    ]
+  },
+  {
+    "uuid": "dc5f3e2b-1849-4b8c-b302-1845e92f7b90",
+    "firstName": "Keegan",
+    "lastName": "Fairbrother",
+    "phone": "509-682-7430",
+    "emails": [
+      "kfairbrother3@last.fm",
+      "kfairbrother3@gnu.org"
+    ]
+  },
+  {
+    "uuid": "57b1f4b8-0c4c-4429-a3f7-0d9c1b3f7e5f",
+    "firstName": "Rosamund",
+    "lastName": "Ingleby",
+    "phone": "320-111-5642",
+    "emails": [
+      "ringleby4@reuters.com",
+      "ringleby4@example.com",
+      "ringleby4@epa.gov"
+    ]
+  },
+  {
+    "uuid": "2c6a3b4e-8b7d-4874-9d5f-58c4f3f9c2d7",
+    "firstName": "Thatcher",
+    "lastName": "Worthing",
+    "phone": "843-502-2985",
+    "emails": [
+      "tworthing5@ft.com",
+      "tworthing5@stanford.edu"
+    ]
+  },
+  {
+    "uuid": "fbd4c7e8-1d8a-4c2a-b3e9-3b4c8f7d1e2b",
+    "firstName": "Alaric",
+    "lastName": "Steadman",
+    "phone": "978-349-5628",
+    "emails": [
+      "asteadman6@mit.edu",
+      "asteadman6@wired.com"
+    ]
+  }
+]

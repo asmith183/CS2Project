@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <companyUuid>3b5a9c62-2e24-4d1b-b870-5e7a1c9f7e3c</companyUuid>
+    <contactUuid>c3f5a7d9-4b0e-4f36-90a2-cc4f2f7c8d92</contactUuid>
+    <name>Kulas and Sons</name>
+    <street>127 Willow Drive</street>
+    <city>Denver</city>
+    <state>CO</state>
+    <zip>80211</zip>
+  </row>
+  <row>
+    <companyUuid>81c6d2a7-63b2-4fc5-8b48-1eeb4f3f8c9d</companyUuid>
+    <contactUuid>7ad93e1b-564e-4b32-a70d-2df34745fdac</contactUuid>
+    <name>Howell Inc</name>
+    <street>89 Redwood Avenue</street>
+    <city>Austin</city>
+    <state>TX</state>
+    <zip>73301</zip>
+  </row>
+  <row>
+    <companyUuid>19ab5c3f-4e8d-41e2-9f9a-0db6f0c5a8b2</companyUuid>
+    <contactUuid>12fc9a8d-9c23-4d8f-963e-6205a12a90f1</contactUuid>
+    <name>Gleason and Daugherty</name>
+    <street>314 Chestnut Lane</street>
+    <city>Portland</city>
+    <state>OR</state>
+    <zip>97229</zip>
+  </row>
+  <row>
+    <companyUuid>6d44f7b1-2a59-42b7-b2f8-1d7e35f9c8e3</companyUuid>
+    <contactUuid>98d7f5b4-4935-4261-84e4-1a1a8d13a3e1</contactUuid>
+    <name>Schaden Group</name>
+    <street>222 Oakwood Circle</street>
+    <city>Boston</city>
+    <state>MA</state>
+    <zip>02118</zip>
+  </row>
+  <row>
+    <companyUuid>3c92a9f8-7b63-4d3b-8a41-5c1d2a7e9b6d</companyUuid>
+    <contactUuid>b5e91f3a-f3a9-4a35-baf3-5f463f5e7f60</contactUuid>
+    <name>Bahringer and Sons</name>
+    <street>9905 Sycamore Street</street>
+    <city>San Francisco</city>
+    <state>CA</state>
+    <zip>94109</zip>
+  </row>
+  <row>
+    <companyUuid>11b3d9a7-6f24-4c82-b847-1c8d4e9f2a7c</companyUuid>
+    <contactUuid>6c137b45-839d-43e7-b621-0de6d0376a77</contactUuid>
+    <name>Koelpin Ltd</name>
+    <street>401 Birchwood Drive</street>
+    <city>Chicago</city>
+    <state>IL</state>
+    <zip>60614</zip>
+  </row>
+  <row>
+    <companyUuid>ac5e7f12-4b2c-4d8f-9c5a-2e8d7b1a9f3e</companyUuid>
+    <contactUuid>4e712e2c-b357-4b06-a354-4a1fa9f3243f</contactUuid>
+    <name>Strosin-Schmidt</name>
+    <street>7632 Maple Avenue</street>
+    <city>New York</city>
+    <state>NY</state>
+    <zip>10021</zip>
+  </row>
+  <row>
+    <companyUuid>1a3f9b7d-5c2e-40e1-8d6a-4f2b9c7a5d8f</companyUuid>
+    <contactUuid>9e6c9f57-3d6e-4a14-b7e8-3a5cf4d3f2eb</contactUuid>
+    <name>Hilpert Littel and Boehm</name>
+    <street>17 Pine Street</street>
+    <city>Los Angeles</city>
+    <state>CA</state>
+    <zip>90017</zip>
+  </row>
+  <row>
+    <companyUuid>5e7a3c9d-6b42-48e7-97a5-1d2c4b8f3e9a</companyUuid>
+    <contactUuid>a41b4b8b-2d7f-4e5b-a4eb-8b50a8d3f5e0</contactUuid>
+    <name>Bailey and Stiedemann</name>
+    <street>803 Meadow Lane</street>
+    <city>Atlanta</city>
+    <state>GA</state>
+    <zip>30312</zip>
+  </row>
+</root>

@@ -1,0 +1,181 @@
+[
+  {
+    "modelNumber": "EX900X",
+    "retailPrice": 258300,
+    "uuid": "5f8a3b2d-1c4f-4b7d-a5e3-92f7dc5a0e21",
+    "name": "Excavator"
+  },
+  {
+    "modelNumber": "LD450Y",
+    "retailPrice": 98200,
+    "uuid": "a9d4f6b7-3e12-45b1-bc87-7f0c2d8a9345",
+    "name": "Loader"
+  },
+  {
+    "modelNumber": "GRD720",
+    "retailPrice": 67500,
+    "uuid": "cb62d89e-28b4-4e99-b6fd-1ab4e59c39d1",
+    "name": "Grader"
+  },
+  {
+    "modelNumber": "BH325Z",
+    "retailPrice": 74500,
+    "uuid": "7e35fc21-d8c4-42b6-9a31-4e8f7a19bd5c",
+    "name": "Backhoe"
+  },
+  {
+    "modelNumber": "RR5500",
+    "retailPrice": 32500,
+    "uuid": "c12af8de-9a8f-4c2a-b5d4-2e1f38dbfc62",
+    "name": "Road Roller"
+  },
+  {
+    "unit": "bag",
+    "costPerUnit": 50,
+    "uuid": "9d5b7a2f-47c1-4d38-8f92-3a6f5c28b94a",
+    "name": "cement"
+  },
+  {
+    "unit": "ton",
+    "costPerUnit": 1750,
+    "uuid": "3b9c0d8a-2a7f-4e38-92b1-8f47c1d5a3fc",
+    "name": "gravel"
+  },
+  {
+    "unit": "box",
+    "costPerUnit": 20,
+    "uuid": "af42c8d3-8a6b-4d19-bc35-7f1e92a0d58e",
+    "name": "screws"
+  },
+  {
+    "unit": "lft",
+    "costPerUnit": 12,
+    "uuid": "d5e48b3c-7a92-4f1c-85d2-38a97c0b2f4a",
+    "name": "timber"
+  },
+  {
+    "unit": "sheet",
+    "costPerUnit": 40,
+    "uuid": "7c92f8e3-1a4d-4f7b-9d38-5b6c1d2a7e94",
+    "name": "plywood"
+  },
+  {
+    "servicer": {
+      "companyUUID": "3b5a9c62-2e24-4d1b-b870-5e7a1c9f7e3c",
+      "contact": {
+        "uuid": "c3f5a7d9-4b0e-4f36-90a2-cc4f2f7c8d92",
+        "firstName": "Emery",
+        "lastName": "Hickling",
+        "phone": "312-555-6721",
+        "emails": [
+          "ehickling0@outlook.com"
+        ]
+      },
+      "name": "Kulas and Sons",
+      "address": {
+        "street": "127 Willow Drive",
+        "city": "Denver",
+        "state": "CO",
+        "zip": 80211
+      }
+    },
+    "uuid": "1e92b3f5-6a8d-4c7b-8d2f-3a5c7f91d4b8",
+    "name": "slab pour"
+  },
+  {
+    "servicer": {
+      "companyUUID": "81c6d2a7-63b2-4fc5-8b48-1eeb4f3f8c9d",
+      "contact": {
+        "uuid": "7ad93e1b-564e-4b32-a70d-2df34745fdac",
+        "firstName": "Kendra",
+        "lastName": "Swinton",
+        "phone": "453-210-9823",
+        "emails": [
+          "kswinton1@icloud.com",
+          "kswinton1@bing.com"
+        ]
+      },
+      "name": "Howell Inc",
+      "address": {
+        "street": "89 Redwood Avenue",
+        "city": "Austin",
+        "state": "TX",
+        "zip": 73301
+      }
+    },
+    "uuid": "7d5b3a92-1f4c-4e7b-9d38-5c6f2a8d3b4e",
+    "name": "wall framing"
+  },
+  {
+    "servicer": {
+      "companyUUID": "19ab5c3f-4e8d-41e2-9f9a-0db6f0c5a8b2",
+      "contact": {
+        "uuid": "12fc9a8d-9c23-4d8f-963e-6205a12a90f1",
+        "firstName": "Finnian",
+        "lastName": "Corbould",
+        "phone": "781-602-5549",
+        "emails": [
+          "fcorbould2@google.com",
+          "fcorbould2@zillow.com",
+          "fcorbould2@msn.com"
+        ]
+      },
+      "name": "Gleason and Daugherty",
+      "address": {
+        "street": "314 Chestnut Lane",
+        "city": "Portland",
+        "state": "OR",
+        "zip": 97229
+      }
+    },
+    "uuid": "2f7b3c9a-8d5e-4a1d-b7f2-6c9a5d3e4b18",
+    "name": "roof install"
+  },
+  {
+    "servicer": {
+      "companyUUID": "6d44f7b1-2a59-42b7-b2f8-1d7e35f9c8e3",
+      "contact": {
+        "uuid": "98d7f5b4-4935-4261-84e4-1a1a8d13a3e1",
+        "firstName": "Nicolette",
+        "lastName": "Dunsford",
+        "phone": "667-849-3120",
+        "emails": [
+          "ndunsford3@pinterest.com"
+        ]
+      },
+      "name": "Schaden Group",
+      "address": {
+        "street": "222 Oakwood Circle",
+        "city": "Boston",
+        "state": "MA",
+        "zip": 2118
+      }
+    },
+    "uuid": "8d5e7f3b-2a9c-4c6f-b4d1-5a7e9a3b2f61",
+    "name": "plumbing setup"
+  },
+  {
+    "servicer": {
+      "companyUUID": "3c92a9f8-7b63-4d3b-8a41-5c1d2a7e9b6d",
+      "contact": {
+        "uuid": "b5e91f3a-f3a9-4a35-baf3-5f463f5e7f60",
+        "firstName": "Reagan",
+        "lastName": "Mallinson",
+        "phone": "234-765-0091",
+        "emails": [
+          "rmallinson4@tumblr.com",
+          "rmallinson4@epa.gov"
+        ]
+      },
+      "name": "Bahringer and Sons",
+      "address": {
+        "street": "9905 Sycamore Street",
+        "city": "San Francisco",
+        "state": "CA",
+        "zip": 94109
+      }
+    },
+    "uuid": "4c9a7d3e-5b6f-42a1-b8f2-9d5e3b7c2f61",
+    "name": "HVAC installation"
+  }
+]

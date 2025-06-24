@@ -1,0 +1,182 @@
+[
+  {
+    "companyUUID": "3b5a9c62-2e24-4d1b-b870-5e7a1c9f7e3c",
+    "contact": {
+      "uuid": "c3f5a7d9-4b0e-4f36-90a2-cc4f2f7c8d92",
+      "firstName": "Emery",
+      "lastName": "Hickling",
+      "phone": "312-555-6721",
+      "emails": [
+        "ehickling0@outlook.com"
+      ]
+    },
+    "name": "Kulas and Sons",
+    "address": {
+      "street": "127 Willow Drive",
+      "city": "Denver",
+      "state": "CO",
+      "zip": 80211
+    }
+  },
+  {
+    "companyUUID": "81c6d2a7-63b2-4fc5-8b48-1eeb4f3f8c9d",
+    "contact": {
+      "uuid": "7ad93e1b-564e-4b32-a70d-2df34745fdac",
+      "firstName": "Kendra",
+      "lastName": "Swinton",
+      "phone": "453-210-9823",
+      "emails": [
+        "kswinton1@icloud.com",
+        "kswinton1@bing.com"
+      ]
+    },
+    "name": "Howell Inc",
+    "address": {
+      "street": "89 Redwood Avenue",
+      "city": "Austin",
+      "state": "TX",
+      "zip": 73301
+    }
+  },
+  {
+    "companyUUID": "19ab5c3f-4e8d-41e2-9f9a-0db6f0c5a8b2",
+    "contact": {
+      "uuid": "12fc9a8d-9c23-4d8f-963e-6205a12a90f1",
+      "firstName": "Finnian",
+      "lastName": "Corbould",
+      "phone": "781-602-5549",
+      "emails": [
+        "fcorbould2@google.com",
+        "fcorbould2@zillow.com",
+        "fcorbould2@msn.com"
+      ]
+    },
+    "name": "Gleason and Daugherty",
+    "address": {
+      "street": "314 Chestnut Lane",
+      "city": "Portland",
+      "state": "OR",
+      "zip": 97229
+    }
+  },
+  {
+    "companyUUID": "6d44f7b1-2a59-42b7-b2f8-1d7e35f9c8e3",
+    "contact": {
+      "uuid": "98d7f5b4-4935-4261-84e4-1a1a8d13a3e1",
+      "firstName": "Nicolette",
+      "lastName": "Dunsford",
+      "phone": "667-849-3120",
+      "emails": [
+        "ndunsford3@pinterest.com"
+      ]
+    },
+    "name": "Schaden Group",
+    "address": {
+      "street": "222 Oakwood Circle",
+      "city": "Boston",
+      "state": "MA",
+      "zip": 2118
+    }
+  },
+  {
+    "companyUUID": "3c92a9f8-7b63-4d3b-8a41-5c1d2a7e9b6d",
+    "contact": {
+      "uuid": "b5e91f3a-f3a9-4a35-baf3-5f463f5e7f60",
+      "firstName": "Reagan",
+      "lastName": "Mallinson",
+      "phone": "234-765-0091",
+      "emails": [
+        "rmallinson4@tumblr.com",
+        "rmallinson4@epa.gov"
+      ]
+    },
+    "name": "Bahringer and Sons",
+    "address": {
+      "street": "9905 Sycamore Street",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": 94109
+    }
+  },
+  {
+    "companyUUID": "11b3d9a7-6f24-4c82-b847-1c8d4e9f2a7c",
+    "contact": {
+      "uuid": "6c137b45-839d-43e7-b621-0de6d0376a77",
+      "firstName": "Ryan",
+      "lastName": "Ormsby",
+      "phone": "419-208-7854",
+      "emails": [
+        "rormsby5@linkedin.com",
+        "rormsby5@mozilla.org",
+        "rormsby5@ask.com"
+      ]
+    },
+    "name": "Koelpin Ltd",
+    "address": {
+      "street": "401 Birchwood Drive",
+      "city": "Chicago",
+      "state": "IL",
+      "zip": 60614
+    }
+  },
+  {
+    "companyUUID": "ac5e7f12-4b2c-4d8f-9c5a-2e8d7b1a9f3e",
+    "contact": {
+      "uuid": "4e712e2c-b357-4b06-a354-4a1fa9f3243f",
+      "firstName": "Seraphina",
+      "lastName": "Blundell",
+      "phone": "530-841-2098",
+      "emails": [
+        "sblundell6@photobucket.com",
+        "sblundell6@myspace.com"
+      ]
+    },
+    "name": "Strosin-Schmidt",
+    "address": {
+      "street": "7632 Maple Avenue",
+      "city": "New York",
+      "state": "NY",
+      "zip": 10021
+    }
+  },
+  {
+    "companyUUID": "1a3f9b7d-5c2e-40e1-8d6a-4f2b9c7a5d8f",
+    "contact": {
+      "uuid": "9e6c9f57-3d6e-4a14-b7e8-3a5cf4d3f2eb",
+      "firstName": "Callum",
+      "lastName": "Petherbridge",
+      "phone": "289-653-9712",
+      "emails": [
+        "cpetherbridge7@hp.com"
+      ]
+    },
+    "name": "Hilpert Littel and Boehm",
+    "address": {
+      "street": "17 Pine Street",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": 90017
+    }
+  },
+  {
+    "companyUUID": "5e7a3c9d-6b42-48e7-97a5-1d2c4b8f3e9a",
+    "contact": {
+      "uuid": "a41b4b8b-2d7f-4e5b-a4eb-8b50a8d3f5e0",
+      "firstName": "Luciana",
+      "lastName": "Ramsden",
+      "phone": "845-220-6183",
+      "emails": [
+        "lramsden8@forbes.com",
+        "lramsden8@overstock.com",
+        "lramsden8@dailymotion.com"
+      ]
+    },
+    "name": "Bailey DuBuque and Stiedemann",
+    "address": {
+      "street": "803 Meadow Lane",
+      "city": "Atlanta",
+      "state": "GA",
+      "zip": 30312
+    }
+  }
+]

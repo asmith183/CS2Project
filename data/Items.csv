@@ -1,0 +1,16 @@
+uuid,type,name,field(s)
+5f8a3b2d-1c4f-4b7d-a5e3-92f7dc5a0e21,E,Excavator,EX900X,258300
+a9d4f6b7-3e12-45b1-bc87-7f0c2d8a9345,E,Loader,LD450Y,98200
+cb62d89e-28b4-4e99-b6fd-1ab4e59c39d1,E,Grader,GRD720,67500
+7e35fc21-d8c4-42b6-9a31-4e8f7a19bd5c,E,Backhoe,BH325Z,74500
+c12af8de-9a8f-4c2a-b5d4-2e1f38dbfc62,E,Road Roller,RR5500,32500
+9d5b7a2f-47c1-4d38-8f92-3a6f5c28b94a,M,cement,bag,50
+3b9c0d8a-2a7f-4e38-92b1-8f47c1d5a3fc,M,gravel,ton,1750
+af42c8d3-8a6b-4d19-bc35-7f1e92a0d58e,M,screws,box,20
+d5e48b3c-7a92-4f1c-85d2-38a97c0b2f4a,M,timber,lft,12
+7c92f8e3-1a4d-4f7b-9d38-5b6c1d2a7e94,M,plywood,sheet,40
+1e92b3f5-6a8d-4c7b-8d2f-3a5c7f91d4b8,C,slab pour,3b5a9c62-2e24-4d1b-b870-5e7a1c9f7e3c
+7d5b3a92-1f4c-4e7b-9d38-5c6f2a8d3b4e,C,wall framing,81c6d2a7-63b2-4fc5-8b48-1eeb4f3f8c9d
+2f7b3c9a-8d5e-4a1d-b7f2-6c9a5d3e4b18,C,roof install,19ab5c3f-4e8d-41e2-9f9a-0db6f0c5a8b2
+8d5e7f3b-2a9c-4c6f-b4d1-5a7e9a3b2f61,C,plumbing setup,6d44f7b1-2a59-42b7-b2f8-1d7e35f9c8e3
+4c9a7d3e-5b6f-42a1-b8f2-9d5e3b7c2f61,C,HVAC installation,3c92a9f8-7b63-4d3b-8a41-5c1d2a7e9b6d

@@ -1,0 +1,107 @@
+[
+ {
+   "uuid": "2dd5220e-6779-4fe7-81d2-b79dcbff3415",
+   "type": "E",
+   "name": "Dragline",
+   "field(s)": "DX200b",
+   "FIELD5": 347125
+ },
+ {
+   "uuid": "4c0c851d-0466-42c8-8631-0b414db5be98",
+   "type": "E",
+   "name": "Bulldozer",
+   "field(s)": "XPXY4",
+   "FIELD5": 125500
+ },
+ {
+   "uuid": "984bac8d-96f7-4d6b-9948-1cabae15ba51",
+   "type": "E",
+   "name": "Compactor",
+   "field(s)": "FLT100",
+   "FIELD5": 4500
+ },
+ {
+   "uuid": "50e6f93f-3792-459f-b1c6-b512b994ff2b",
+   "type": "E",
+   "name": "Dump Truck",
+   "field(s)": "DUMPRX5000",
+   "FIELD5": 90450
+ },
+ {
+   "uuid": "e9afb98d-ac99-4974-a274-2dca5c1238f5",
+   "type": "E",
+   "name": "Skid-Steer",
+   "field(s)": "S4325",
+   "FIELD5": 8500
+ },
+ {
+   "uuid": "ac47e0f6-5d5b-49fe-af54-a6625a6374a8",
+   "type": "M",
+   "name": "concrete",
+   "field(s)": "bag",
+   "FIELD5": 40
+ },
+ {
+   "uuid": "72e157ac-5b46-4b3b-b86b-599a89be7289",
+   "type": "M",
+   "name": "sand",
+   "field(s)": "ton",
+   "FIELD5": 1500
+ },
+ {
+   "uuid": "97dc9f91-c009-4e8d-b08c-3d4d0ded0bad",
+   "type": "M",
+   "name": "nails",
+   "field(s)": "box",
+   "FIELD5": 15
+ },
+ {
+   "uuid": "30bebf58-ba44-4bef-885f-8fccb7db9544",
+   "type": "M",
+   "name": "lumber",
+   "field(s)": "lft",
+   "FIELD5": 8
+ },
+ {
+   "uuid": "8c8bbffa-a939-44f4-98b7-66837e7d16e9",
+   "type": "M",
+   "name": "drywall",
+   "field(s)": "sheet",
+   "FIELD5": 35
+ },
+ {
+   "uuid": "38bebacb-a3ca-459e-a71f-8e5826a2f7fa",
+   "type": "C",
+   "name": "foundation pour",
+   "field(s)": "3b5a9c62-2e24-4d1b-b870-5e7a1c9f7e3c",
+   "FIELD5": null
+ },
+ {
+   "uuid": "699607c3-d9db-4aef-a8ab-b3a6cab21e12",
+   "type": "C",
+   "name": "footing pour",
+   "field(s)": "81c6d2a7-63b2-4fc5-8b48-1eeb4f3f8c9d",
+   "FIELD5": null
+ },
+ {
+   "uuid": "ce9fc7f6-8be8-48cb-9236-7873dbf9b2b7",
+   "type": "C",
+   "name": "concrete pad pour",
+   "field(s)": "19ab5c3f-4e8d-41e2-9f9a-0db6f0c5a8b2",
+   "FIELD5": null
+ },
+ {
+   "uuid": "97ee84b8-dc93-4db2-84bd-48e72a7f3131",
+   "type": "C",
+   "name": "electric install",
+   "field(s)": "6d44f7b1-2a59-42b7-b2f8-1d7e35f9c8e3",
+   "FIELD5": null
+ },
+ {
+   "uuid": "b118fa82-14cf-46f4-8574-41e583badc27",
+   "type": "C",
+   "name": "generator install",
+   "field(s)": "3c92a9f8-7b63-4d3b-8a41-5c1d2a7e9b6d",
+   "FIELD5": null
+ }
+]

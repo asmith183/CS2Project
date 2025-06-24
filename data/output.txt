@@ -1,0 +1,44 @@
+—-----------------
+Summary Report
+—------------------
+Invoice #        Tax    Total
+2f5cb5a3-8bf3-4ba9-99fc-be172694a5c1      $13666.57      $273446.57
+3722629e-580a-4c64-90d0-2d181831c2c9      $321.75      $19821.75
+2ea1b1f6-3146-4c9a-b09b-723e90e0ec12      $1650.54      $68056.72
+                       $15638.86   $361325.04
+—-----------------
+Company Invoice Report
+—-----------------
+Company     # Invoices  Grand Total
+Kulas and Sons     (2)     $293268.32
+Howell Inc       (0)     $0.00 
+Gleason and Daugherty       (0)     $0.00
+Schaden Group       (0)     $0.00
+Bahringer and Sons       (0)     $0.00
+Koelpin Ltd       (0)      $0.00
+Strosin-Schmidt       (0)     $0.00
+Hilpert Littel and Boehm       (0)     $0.00
+Bailey DuBuque and Stiedemann       (1)     $68056.72
+         $361325.04
+—----------------- 
+Invoices
+—-----------------
+       
+Invoice #: 2f5cb5a3-8bf3-4ba9-99fc-be172694a5c1
+Item 1:    Tax $13560.75      Total $258,300
+Item 2:    Tax $105.82      Total $1480
+	13666.57	259780.00
+				273446.57
+
+Invoice #: 3722629e-580a-4c64-90d0-2d181831c2c9
+Item 1:    Tax $321.75      Total $4,500
+Item 2:    Tax $0      Total $15,000
+	 321.75  19500.00
+			 19821.75
+
+Invoice # 2ea1b1f6-3146-4c9a-b09b-723e90e0ec12
+Item 1:    Tax $150.54      Total $3437.00
+Item 2:    Tax $1,500.00      Total $62969.18
+	1650.54  66406.18
+			 68056.72
+

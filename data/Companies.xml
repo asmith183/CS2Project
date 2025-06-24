@@ -1,0 +1,182 @@
+<list>
+  <company>
+    <companyUUID>3b5a9c62-2e24-4d1b-b870-5e7a1c9f7e3c</companyUUID>
+    <contact>
+      <uuid>c3f5a7d9-4b0e-4f36-90a2-cc4f2f7c8d92</uuid>
+      <firstName>Emery</firstName>
+      <lastName>Hickling</lastName>
+      <phone>312-555-6721</phone>
+      <emails>
+        <string>ehickling0@outlook.com</string>
+      </emails>
+    </contact>
+    <name>Kulas and Sons</name>
+    <address>
+      <street>127 Willow Drive</street>
+      <city>Denver</city>
+      <state>CO</state>
+      <zip>80211</zip>
+    </address>
+  </company>
+  <company>
+    <companyUUID>81c6d2a7-63b2-4fc5-8b48-1eeb4f3f8c9d</companyUUID>
+    <contact>
+      <uuid>7ad93e1b-564e-4b32-a70d-2df34745fdac</uuid>
+      <firstName>Kendra</firstName>
+      <lastName>Swinton</lastName>
+      <phone>453-210-9823</phone>
+      <emails>
+        <string>kswinton1@icloud.com</string>
+        <string>kswinton1@bing.com</string>
+      </emails>
+    </contact>
+    <name>Howell Inc</name>
+    <address>
+      <street>89 Redwood Avenue</street>
+      <city>Austin</city>
+      <state>TX</state>
+      <zip>73301</zip>
+    </address>
+  </company>
+  <company>
+    <companyUUID>19ab5c3f-4e8d-41e2-9f9a-0db6f0c5a8b2</companyUUID>
+    <contact>
+      <uuid>12fc9a8d-9c23-4d8f-963e-6205a12a90f1</uuid>
+      <firstName>Finnian</firstName>
+      <lastName>Corbould</lastName>
+      <phone>781-602-5549</phone>
+      <emails>
+        <string>fcorbould2@google.com</string>
+        <string>fcorbould2@zillow.com</string>
+        <string>fcorbould2@msn.com</string>
+      </emails>
+    </contact>
+    <name>Gleason and Daugherty</name>
+    <address>
+      <street>314 Chestnut Lane</street>
+      <city>Portland</city>
+      <state>OR</state>
+      <zip>97229</zip>
+    </address>
+  </company>
+  <company>
+    <companyUUID>6d44f7b1-2a59-42b7-b2f8-1d7e35f9c8e3</companyUUID>
+    <contact>
+      <uuid>98d7f5b4-4935-4261-84e4-1a1a8d13a3e1</uuid>
+      <firstName>Nicolette</firstName>
+      <lastName>Dunsford</lastName>
+      <phone>667-849-3120</phone>
+      <emails>
+        <string>ndunsford3@pinterest.com</string>
+      </emails>
+    </contact>
+    <name>Schaden Group</name>
+    <address>
+      <street>222 Oakwood Circle</street>
+      <city>Boston</city>
+      <state>MA</state>
+      <zip>2118</zip>
+    </address>
+  </company>
+  <company>
+    <companyUUID>3c92a9f8-7b63-4d3b-8a41-5c1d2a7e9b6d</companyUUID>
+    <contact>
+      <uuid>b5e91f3a-f3a9-4a35-baf3-5f463f5e7f60</uuid>
+      <firstName>Reagan</firstName>
+      <lastName>Mallinson</lastName>
+      <phone>234-765-0091</phone>
+      <emails>
+        <string>rmallinson4@tumblr.com</string>
+        <string>rmallinson4@epa.gov</string>
+      </emails>
+    </contact>
+    <name>Bahringer and Sons</name>
+    <address>
+      <street>9905 Sycamore Street</street>
+      <city>San Francisco</city>
+      <state>CA</state>
+      <zip>94109</zip>
+    </address>
+  </company>
+  <company>
+    <companyUUID>11b3d9a7-6f24-4c82-b847-1c8d4e9f2a7c</companyUUID>
+    <contact>
+      <uuid>6c137b45-839d-43e7-b621-0de6d0376a77</uuid>
+      <firstName>Ryan</firstName>
+      <lastName>Ormsby</lastName>
+      <phone>419-208-7854</phone>
+      <emails>
+        <string>rormsby5@linkedin.com</string>
+        <string>rormsby5@mozilla.org</string>
+        <string>rormsby5@ask.com</string>
+      </emails>
+    </contact>
+    <name>Koelpin Ltd</name>
+    <address>
+      <street>401 Birchwood Drive</street>
+      <city>Chicago</city>
+      <state>IL</state>
+      <zip>60614</zip>
+    </address>
+  </company>
+  <company>
+    <companyUUID>ac5e7f12-4b2c-4d8f-9c5a-2e8d7b1a9f3e</companyUUID>
+    <contact>
+      <uuid>4e712e2c-b357-4b06-a354-4a1fa9f3243f</uuid>
+      <firstName>Seraphina</firstName>
+      <lastName>Blundell</lastName>
+      <phone>530-841-2098</phone>
+      <emails>
+        <string>sblundell6@photobucket.com</string>
+        <string>sblundell6@myspace.com</string>
+      </emails>
+    </contact>
+    <name>Strosin-Schmidt</name>
+    <address>
+      <street>7632 Maple Avenue</street>
+      <city>New York</city>
+      <state>NY</state>
+      <zip>10021</zip>
+    </address>
+  </company>
+  <company>
+    <companyUUID>1a3f9b7d-5c2e-40e1-8d6a-4f2b9c7a5d8f</companyUUID>
+    <contact>
+      <uuid>9e6c9f57-3d6e-4a14-b7e8-3a5cf4d3f2eb</uuid>
+      <firstName>Callum</firstName>
+      <lastName>Petherbridge</lastName>
+      <phone>289-653-9712</phone>
+      <emails>
+        <string>cpetherbridge7@hp.com</string>
+      </emails>
+    </contact>
+    <name>Hilpert Littel and Boehm</name>
+    <address>
+      <street>17 Pine Street</street>
+      <city>Los Angeles</city>
+      <state>CA</state>
+      <zip>90017</zip>
+    </address>
+  </company>
+  <company>
+    <companyUUID>5e7a3c9d-6b42-48e7-97a5-1d2c4b8f3e9a</companyUUID>
+    <contact>
+      <uuid>a41b4b8b-2d7f-4e5b-a4eb-8b50a8d3f5e0</uuid>
+      <firstName>Luciana</firstName>
+      <lastName>Ramsden</lastName>
+      <phone>845-220-6183</phone>
+      <emails>
+        <string>lramsden8@forbes.com</string>
+        <string>lramsden8@overstock.com</string>
+        <string>lramsden8@dailymotion.com</string>
+      </emails>
+    </contact>
+    <name>Bailey DuBuque and Stiedemann</name>
+    <address>
+      <street>803 Meadow Lane</street>
+      <city>Atlanta</city>
+      <state>GA</state>
+      <zip>30312</zip>
+    </address>
+  </company>
+</list>
